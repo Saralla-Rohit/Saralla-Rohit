@@ -22,120 +22,79 @@
 </p>
 
 ---
+<h3 align="left">🛠️ Languages & Tools</h3>
 
-<h3 align="left">🛠️ Languages & Tools (Ranked by Demand)</h3>
+<!-- FRONTEND -->
+<h4>🎨 Frontend</h4>
+<table>
+  <tr align="center">
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React" /><br>React</td>
+    <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS" /><br>Tailwind CSS</td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="Bootstrap" /><br>Bootstrap</td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5" /><br>HTML5</td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3" /><br>CSS3</td>
+  </tr>
+</table>
 
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 20px;">
+<!-- BACKEND -->
+<h4>🔧 Backend</h4>
+<table>
+  <tr align="center">
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js" /><br>Node.js</td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express.js" /><br>Express.js</td>
+    <td><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40" height="40" alt="GraphQL" /><br>GraphQL</td>
+  </tr>
+</table>
 
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-    <p style="margin: 0; font-size: 14px;">JavaScript</p>
-  </a>
+<!-- DATABASE -->
+<h4>🗄️ Database</h4>
+<table>
+  <tr align="center">
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB" /><br>MongoDB</td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" /><br>MySQL</td>
+  </tr>
+</table>
 
-  <!-- React -->
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-    <p style="margin: 0; font-size: 14px;">React</p>
-  </a>
+<!-- DEVOPS / TOOLS -->
+<h4>⚙️ DevOps & Tools</h4>
+<table>
+  <tr align="center">
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker" /><br>Docker</td>
+    <td><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40" alt="Jenkins" /><br>Jenkins</td>
+    <td><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40" alt="Kubernetes" /><br>Kubernetes</td>
+    <td><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40" alt="Bash" /><br>Bash</td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" /><br>Linux</td>
+  </tr>
+</table>
 
-  <!-- Node.js -->
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-    <p style="margin: 0; font-size: 14px;">Node.js</p>
-  </a>
+<!-- CLOUD -->
+<h4>☁️ Cloud & Hosting</h4>
+<table>
+  <tr align="center">
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS" /><br>AWS</td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40" alt="NGINX" /><br>NGINX</td>
+    <td><img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" width="40" height="40" alt="Vagrant" /><br>Vagrant</td>
+  </tr>
+</table>
 
-  <!-- Python -->
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-    <p style="margin: 0; font-size: 14px;">Python</p>
-  </a>
+<!-- LANGUAGES -->
+<h4>💻 Programming Languages</h4>
+<table>
+  <tr align="center">
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /><br>JavaScript</td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" /><br>Python</td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" /><br>Java</td>
+  </tr>
+</table>
 
-  <!-- AWS -->
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-    <p style="margin: 0; font-size: 14px;">AWS</p>
-  </a>
+<!-- VERSION CONTROL -->
+<h4>🔄 Version Control</h4>
+<table>
+  <tr align="center">
+    <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" /><br>Git</td>
+  </tr>
+</table>
 
-  <!-- Docker -->
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-    <p style="margin: 0; font-size: 14px;">Docker</p>
-  </a>
-
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-    <p style="margin: 0; font-size: 14px;">Git</p>
-  </a>
-
-  <!-- MongoDB -->
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-    <p style="margin: 0; font-size: 14px;">MongoDB</p>
-  </a>
-
-  <!-- GraphQL -->
-  <a href="https://graphql.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40"/>
-    <p style="margin: 0; font-size: 14px;">GraphQL</p>
-  </a>
-
-  <!-- HTML5 -->
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-    <p style="margin: 0; font-size: 14px;">HTML5</p>
-  </a>
-
-  <!-- CSS3 -->
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-    <p style="margin: 0; font-size: 14px;">CSS3</p>
-  </a>
-
-  <!-- Tailwind CSS -->
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-    <p style="margin: 0; font-size: 14px;">Tailwind CSS</p>
-  </a>
-
-  <!-- Java -->
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-    <p style="margin: 0; font-size: 14px;">Java</p>
-  </a>
-
-  <!-- Jenkins -->
-  <a href="https://www.jenkins.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
-    <p style="margin: 0; font-size: 14px;">Jenkins</p>
-  </a>
-
-  <!-- Kubernetes -->
-  <a href="https://kubernetes.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
-    <p style="margin: 0; font-size: 14px;">Kubernetes</p>
-  </a>
-
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-    <p style="margin: 0; font-size: 14px;">MySQL</p>
-  </a>
-
-  <!-- Bash -->
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
-    <p style="margin: 0; font-size: 14px;">Bash</p>
-  </a>
-
-  <!-- Linux -->
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-    <p style="margin: 0; font-size: 14px;">Linux</p>
-  </a>
-
-</div>
 
 
 ---
