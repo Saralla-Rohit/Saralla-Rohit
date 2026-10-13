@@ -112,7 +112,6 @@
       <br/><strong>Kubernetes</strong>
     </td>
     <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/minikube/minikube-original.svg" width="40" height="40" alt="Minikube"/>
       <br/><strong>Minikube</strong>
     </td>
   </tr>
