@@ -181,7 +181,7 @@
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=saralla-rohit&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Rohit's GitHub Stats"/>
   &nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saralla-rohit&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Rohit's Top Languages"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saralla-rohit&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=0" alt="Rohit's Top Languages"/>
 </p>
 
 <p align="center">
